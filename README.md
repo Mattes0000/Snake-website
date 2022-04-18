@@ -1,2 +1,3 @@
 # Snake-website
-The website of my friend DNAScanner
+The website from the project of my friend DNAScanner
+
